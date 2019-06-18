@@ -1,0 +1,1 @@
+Fully resposnive front end web template utilizing Bootstrap
