@@ -9,6 +9,6 @@ Features include:
 * Automatic formatting and spacing of elements.
 
 #### Tech Stack:
-HTML: Web app layout.
-CSS: Custom styling of certain elements.
-BootStrap: Majority of web app styling.
+* HTML: Web app layout.
+* CSS: Custom styling of certain elements.
+* BootStrap: Majority of web app styling.
